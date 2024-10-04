@@ -16,7 +16,7 @@
 3. Создайте файл domains.txt и внесите в него домены, по которым вы хотите выполнить nslookup (по одному домену на строку).
 4. Запустите скрипт с помощью следующей команды:
 
-   python nslookup_route_generator.py
+   `python nslookup_route_generator.py`
 
 ## Использование
 
